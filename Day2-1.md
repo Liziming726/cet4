@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 - feature n.特征，特点 以...为特殊
 - cautious adj.十分小心的，谨慎的
 - satisfactory adj. 令人满意的
