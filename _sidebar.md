@@ -11,5 +11,7 @@
     * [Day5-1](note/Day5-1.md)
     * [Day5-2](note/Day5-2.md)
     * [Day6-1](note/Day6-1.md)
+    * [Day7-1](note/Day7-1.md)
+    * [Day7-2](note/Day7-2.md)
 
 * :3rd_place_medal: chapter 3
