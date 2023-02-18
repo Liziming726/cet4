@@ -5,6 +5,7 @@
 - instruct v. 指示,教导
 - multual adj. 相互的
 - convoction n. 定罪，判罪；坚定的信仰，深信的观点；确信，深信
+- racism n.种族歧视，种族主义
 - simplification n. 简化; 简化的事物
 - revolution n. 革命,革命的事物,变革
 - struggle n. 奋斗,斗争,斗争的结果
